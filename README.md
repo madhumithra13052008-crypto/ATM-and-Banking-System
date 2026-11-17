@@ -140,6 +140,9 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 <img width="885" height="752" alt="sequence diagram" src="https://github.com/user-attachments/assets/b3f23222-39a0-434e-84e0-761da6b607f2" />
 
+# RESULT
+
+Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
 
 
 
@@ -1301,7 +1304,4 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
-# RESULT
-
-Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
 
